@@ -1,0 +1,18 @@
+To Run,
+1) Shoutbox,
+$node boot.js createdb.js
+2) Wordcount,
+$node word-count.js word-count.js
+3) Static_file_server
+$node static_file_server.js
+Open up a web brower and enter the URI,
+http://localhost:8000/<path-to-file>
+for an eg,
+http://localhost:8000/hello_world_server.js
+4) TweetAPI
+$node tweet_streamer.js 
+open up web browser http://localhost:8000/tweet_streamer.html
+5) Helloworld
+a)$node hello_world.js
+b)$node hello-world-gh.js
+c)$node hello_world_server.js
