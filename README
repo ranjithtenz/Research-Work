@@ -16,3 +16,6 @@ open up web browser http://localhost:8000/tweet_streamer.html
 a)$node hello_world.js
 b)$node hello-world-gh.js
 c)$node hello_world_server.js
+6) Validator
+a) jslint4java-1.4.1
+$./jslint <file.js>

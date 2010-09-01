@@ -1,0 +1,1 @@
+echo $1 | xargs	java -jar jslint4java-1.4.1.jar
